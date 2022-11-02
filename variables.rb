@@ -1,6 +1,7 @@
 ```ruby
-name = lorenzo
-pet_name = aurora
+name = "lorenzo"
+pet_name = "aurora"
+pet_name # "bunny"
 age = 18
 grad_year = 2022
 first_paycheck = 864.35
